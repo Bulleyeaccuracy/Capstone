@@ -1,0 +1,194 @@
+body
+{
+	background-color: #E0E0E0;
+}
+
+.tabs
+{
+	position: fixed !important;
+	box-shadow: none !important;
+}
+
+.row .col.s12
+{
+	margin: 0;
+	padding: 0;
+}
+
+.row .col .s3
+{
+	background-color: #004477;
+}
+
+.tabs .tab a
+{
+	color: #FFFFFF !important;
+}
+
+.tabs .indicator
+{
+	background-color: #FFFFFF !important;
+}
+
+.page
+{
+	margin: 0;
+	padding: 0;
+	margin-top: 50px !important;
+}
+
+.time
+{
+	margin: 0 auto !important;
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
+	width: 500px;
+	padding: 0 !important;
+}
+
+p
+{
+	font-size: 19px;
+	color: #004477;
+	text-align: center;
+}
+
+.time p
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 48px;
+	color: #004477;
+}
+
+#teamlist
+{
+	width: 23% !important;
+	height: 500px !important;
+	float: left;
+	margin: 0px 1% !important;
+	padding: 0;
+}
+
+#tinfo
+{
+	width: 48%;
+	height: 500px;
+	float: left;
+	margin: 0 1%;
+	position: relative;
+}
+
+#applicants
+{
+	width: 23%;
+	height: 500px;
+	float: right;
+	margin: 0 1%;
+}
+
+#ginfo
+{
+	width: 48%;
+	margin: 0px 1%;
+	margin-top: 30px;
+	height: 500px;
+	text-align: center;
+	padding-top: 20px;
+	float: left;
+	/*background-color: #F5F5F5;*/
+}
+
+.drop
+{
+	width: 200px !important;
+	text-align: center;
+	background-color: #004477 !important;
+	color: #FFFFFF !important;
+}
+
+.dropdown-content li
+{
+	text-align: center !important;
+	background-color: #004477 !important;
+}
+
+.dropdown-content li a
+{
+	color: #FFFFFF !important;
+}
+
+#member
+{
+	height: 102.5px;
+	width: 48%;
+	margin: 0px 1%;
+	margin-top: 30px;
+	float: right;
+	padding-left: 10px;
+}
+
+#proj
+{
+	background-color: #FFFFFF;
+}
+
+#documents
+{
+	background-color: #FFFFFF;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+#documents .btn
+{
+	background-color: #004477 !important;
+	color: #FFFFFF !important;
+}
+
+#assesspage
+{
+	background-color: #FFFFFF;
+}
+
+#assesspage .btn
+{
+	background-color: #004477 !important;
+	color: #FFFFFF !important;
+}
+
+#setting
+{
+	width: 40%;
+	margin: 0 auto;
+	margin-top: 30px;
+	height: 400px;
+	background-color: #F5F5F5;
+	padding: 10px;
+}
+
+#setting .btn
+{
+	background-color: #004477 !important;
+	color: #FFFFFF !important;
+	margin-right: 3% !important;
+	margin-bottom: 3% !important;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+}
+
+#reflect
+{
+	width: 40%;
+	margin: 0 auto;
+}
+
+.login
+{
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 150px;
+	width: 25%;
+}
